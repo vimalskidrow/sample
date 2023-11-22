@@ -1,0 +1,24 @@
+.maindiv{
+    margin: 0;
+    padding: o;
+    display: grid; 
+    grid-template-columns: 50% 50%; 
+}
+.div1{
+    
+    background-color: gray;
+    
+}
+.div2{
+    background: black;
+}
+.div1 img{
+width: 100%;
+
+}
+.div2 img{
+    width: 100%;
+}
+.div2 h1{
+    color: white;
+}
